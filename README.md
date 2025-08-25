@@ -109,11 +109,12 @@
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
 </p>
 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg" />
+     <img src="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake.svg" alt="snake animation" />
   </picture>
 </p>
 
