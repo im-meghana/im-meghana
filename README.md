@@ -3,16 +3,13 @@
 
 <br><br>
 <h1 align="center">Hi There! <img width="37"
-        src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;&nbsp;I'm
+        src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
     MEGHANA V</h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Full+Stack+Developer;Freelancer;A+Open-source+Contributor;"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Full+Stack+Developer;Freelancer;An+Open-source+Contributor;"
         alt="Typing SVG" />
 </h3>
-
-
-<br><br><br>
 
 
 - 🔭 Exploring through **Freelancing & Real-world Projects**
@@ -21,31 +18,30 @@
 
 - 📫 Reach me at: **meghana00v@gmail.com**
 
-<br><br>
+<br><br><br>
 
 <div align="center">
     <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
+ 
+   <p align="center">
+  <a href="https://www.linkedin.com/in/meghana-v03/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:meghana00v@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/meghanav/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+</p>
 
-    <br>
-    <a href="https://www.linkedin.com/in/meghana-v03/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:meghana00v@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-
-
-    <a href="https://www.codechef.com/users/meghanav" target="_blank"><img
-            src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/meghanav/" target="_blank"><img
-            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 </div>
 
 <br><br><br><br>
 
 <div align="center">
     <h2 align='center'><strong>Languages, Tools and Technologies 🚀 </strong></h2>
-    <br>
+	<br>
     <table>
         <tr>
             <td><strong>Programming Languages</strong></td>
@@ -100,52 +96,27 @@
 <div align="center">
     <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 
-    <br>
+   <p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" width="100%" />
+</p>
 
-    <markdown-accessiblity-table data-catalyst="">
-        <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
-            <thead>
-                <tr>
-		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
-		  </th>
-		</tr>
-                <tr>
-                    <th style="padding: 20px; text-align: center;">
-                        <a target="_blank" rel="noopener noreferrer nofollow"
-                            href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-meghana&theme=github_dark">
-                            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-meghana&theme=github_dark"
-                                style="width: 24.5em; height: 14em; object-fit: contain;" />
-                        </a>
-                    </th>
+<br><br>
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-meghana&theme=github_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-meghana&theme=github_dark) |
+| --- | --- |
 
-                    <th style="padding: 20px; text-align: center;">
-                        <a target="_blank" rel="noopener noreferrer nofollow"
-                            href="https://github-readme-stats.vercel.app/api?username=im-meghana&show_icons=true&locale=en">
-                            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-meghana&theme=github_dark"
-                                alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
-                        </a>
-                    </th>
-                </tr>
-            </thead>
-            <tr>
-                <td colspan="2" align="center">
-                    <br>
-                    <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<br><br>
+<p align="center">
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
+</p>
 
-                    <picture>
-                        <source media="(prefers-color-scheme: dark)"
-                            srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg" />
-                        <source media="(prefers-color-scheme: light)"
-                            srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake.svg" />
-                        <img alt="github-snake"
-                            src="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg" />
-                    </picture>
-                </td>
-            </tr>
-        </table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
-    </markdown-accessiblity-table>
 </div>
 
 <img width="100%"
