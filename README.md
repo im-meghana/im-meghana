@@ -1,28 +1,25 @@
 ![MasterHead](https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif)
 
-
+<div align="center">
 <br><br>
 <h1 align="center">Hi There! <img width="37"
         src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
     MEGHANA V</h1>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Full+Stack+Developer;Freelancer;An+Open-source+Contributor;"
-        alt="Typing SVG" />
-</h3>
+<br>
 
 
-- 🔭 Exploring through **Freelancing & Real-world Projects**
+ 🔭 Exploring through **Freelancing & Real-world Projects** 
 
-- 👯 Open to collaborating on **Open Source & Web Development projects**
+ 👯 Open to collaborating on **Open Source & Web Development projects**
 
-- 📫 Reach me at: **meghana00v@gmail.com**
-
+ 📫 Reach me at: **meghana00v@gmail.com**
+</div>
 <br><br><br>
 
 <div align="center">
     <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
- 
+  <br>
    <p align="center">
   <a href="https://www.linkedin.com/in/meghana-v03/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -34,12 +31,10 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
 </p>
-
 </div>
-
 <br><br><br><br>
 
-<div align="center">
+ <div align="center">
     <h2 align='center'><strong>Languages, Tools and Technologies 🚀 </strong></h2>
 	<br>
     <table>
@@ -60,17 +55,17 @@
             <td><strong>Database Technologies</strong></td>
             <td><img height=40 src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
         </tr>
+		<tr>
+		   <td><strong>Application Framework</strong></td>
+           <td> <img height="40" src="https://skillicons.dev/icons?i=qt,qml&theme=dark"></td>
+		</tr>
         <tr>
             <td><strong>DevOps Tools</strong></td>
             <td><img height=40 src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"></td>
         </tr>
         <tr>
-            <td><strong>Hosting Services</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=github,vercel&theme=dark"></td>
-        </tr>
-        <tr>
             <td><strong>Developer Tools</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+            <td><img height=40 src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark">
             </td>
         </tr>
         <tr>
@@ -85,22 +80,16 @@
             </td>
         </tr>
     </table>
+
 </div>
 
 <br><br>
 
-</table>
-</div>
 
-<br><br>
 <div align="center">
     <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 
-   <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" width="100%" />
-</p>
-
-<br><br>
+  
 | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-meghana&theme=github_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-meghana&theme=github_dark) |
 | --- | --- |
 
