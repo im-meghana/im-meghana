@@ -27,7 +27,7 @@
   <a href="mailto:meghana00v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/meghanav/" target="_blank">
+  <a href="https://leetcode.com/u/im-meghana/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
 </p>
