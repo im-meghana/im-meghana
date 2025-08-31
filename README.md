@@ -11,7 +11,7 @@
 
  🔭 Exploring through **Freelancing & Real-world Projects** 
 
- 👯 Open to collaborating on **Open Source & Web Development projects**
+ 👯 Open to collaborating on **Open Source, App & Web Development projects**
 
  📫 Reach me at: **meghana00v@gmail.com**
 </div>
