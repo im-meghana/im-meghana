@@ -40,7 +40,7 @@
     <table>
         <tr>
             <td><strong>Programming Languages</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,py,ts,js&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,dart,ts,js,py&theme=dark"></td>
         </tr>
         <tr>
             <td><strong>Frontend Development</strong></td>
@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td><strong>Backend Development</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,py&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
         </tr>
         <tr>
         <tr>
@@ -57,14 +57,14 @@
         </tr>
 		<tr>
 		   <td><strong>Application Framework</strong></td>
-           <td> <img height="40" src="https://skillicons.dev/icons?i=qt,qml&theme=dark"></td>
+           <td> <img height="40" src="https://skillicons.dev/icons?i=flutter,qt&theme=dark"></td>
 		</tr>
         <tr>
             <td><strong>DevOps Tools</strong></td>
             <td><img height=40 src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"></td>
         </tr>
         <tr>
-            <td><strong>Developer Tools</strong></td>
+            <td><strong>Other Tools</strong></td>
             <td><img height=40 src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark">
             </td>
         </tr>
