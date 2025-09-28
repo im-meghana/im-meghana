@@ -38,7 +38,7 @@
     <table>
         <tr>
             <td><strong>Programming Languages</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,c++,ts,js&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,cpp,ts,js&theme=dark"></td>
         </tr>
         <tr>
             <td><strong>Frontend Development</strong></td>
@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td><strong>Backend Development</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,springboot&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark"></td>
         </tr>
         <tr>
         <tr>
