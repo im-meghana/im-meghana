@@ -29,6 +29,9 @@
   <a href="https://leetcode.com/u/im_meghana/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
+  <a href="https://leetcode.com/u/im_meghana/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=Portfolio&logoColor=#d16c06" />
+  </a>
 </p>
 </div>
 <br><br><br><br>
@@ -41,21 +44,17 @@
             <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,cpp,ts,js&theme=dark"></td>
         </tr>
         <tr>
-            <td><strong>Frontend Development</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"></td>
-        </tr>
-        <tr>
-            <td><strong>Backend Development</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark"></td>
-        </tr>
-        <tr>
-        <tr>
-            <td><strong>Database Technologies</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
-        </tr>
 		<tr>
 		   <td><strong>Application Framework</strong></td>
            <td> <img height="40" src="https://skillicons.dev/icons?i=flutter,qt&theme=dark"></td>
+		</tr>
+        <tr>
+            <td><strong>Database</strong></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+        </tr>
+		<tr>
+            <td><strong>Web Technologies</strong></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"></td>
 		</tr>
         <tr>
             <td><strong>DevOps Tools</strong></td>
@@ -64,17 +63,6 @@
         <tr>
             <td><strong>Other Tools</strong></td>
             <td><img height=40 src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark">
-            </td>
-        </tr>
-        <tr>
-            <td><strong>Operating System</strong></td>
-            <td>
-                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-                    alt="bootstrap" width="" height="" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-                    rel="noreferrer">
-                    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-                        alt="bootstrap" width="" height="" /> </a> <a href="https://www.cprogramming.com/"
-                    target="_blank" rel="noreferrer">
             </td>
         </tr>
     </table>
