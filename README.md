@@ -11,7 +11,6 @@
  👯 Open to collaborating on <b>Open Source, App & Web Development projects<b> <br><br>
 
 </div>
-<br>
 
 <div align="center">
    <p align="center">
