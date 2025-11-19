@@ -5,10 +5,7 @@
 <h1 align="center">Hi There! <img width="37"
         src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
     MEGHANA V</h1>
-
 <br>
-
-
  🔭 Exploring through **Freelancing & Real-world Projects** 
 
  👯 Open to collaborating on **Open Source, App & Web Development projects**
@@ -43,7 +40,6 @@
             <td><strong>Programming Languages</strong></td>
             <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,cpp,ts,js&theme=dark"></td>
         </tr>
-        <tr>
 		<tr>
 		   <td><strong>Application Framework</strong></td>
            <td> <img height="40" src="https://skillicons.dev/icons?i=flutter,qt&theme=dark"></td>
@@ -57,12 +53,8 @@
             <td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"></td>
 		</tr>
         <tr>
-            <td><strong>DevOps Tools</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"></td>
-        </tr>
-        <tr>
             <td><strong>Other Tools</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark">
+            <td><img height=40 src="https://skillicons.dev/icons?i=git,github,aws,docker&theme=dark">
             </td>
         </tr>
     </table>
