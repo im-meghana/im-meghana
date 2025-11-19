@@ -6,16 +6,14 @@
         src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
     MEGHANA V</h1>
 <br>
- 🔭 Exploring through **Freelancing & Real-world Projects** 
+ 🔭 Exploring through <b>Freelancing & Real-world Projects</b> <br><br>
 
- 👯 Open to collaborating on **Open Source, App & Web Development projects**
+ 👯 Open to collaborating on <b>Open Source, App & Web Development projects<b> <br><br>
 
- 📫 Reach me at: **meghana00v@gmail.com**
 </div>
-<br><br><br>
+<br>
 
 <div align="center">
-    <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
    <p align="center">
   <a href="https://www.linkedin.com/in/meghana-v03/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,14 +58,12 @@
     </table>
 
 </div>
-
 <br><br>
 
 
 <div align="center">
-    <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
+    <h2 align='center'>Github Analytics ⚙️</h2>  
 
-  
 | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-meghana&theme=github_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-meghana&theme=github_dark) |
 | --- | --- |
 
