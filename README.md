@@ -4,7 +4,7 @@
 <br><br>
 <h1 align="center">Hi There! <img width="37"
         src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
-    MEGHANA V</h1>
+    MEGHANA</h1>
 <br>
  🔭 Exploring through <b>Freelancing & Real-world Projects</b> <br><br>
 
