@@ -35,7 +35,7 @@
     <table>
         <tr>
             <td><strong>Programming Languages</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,cpp,ts,js&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,cpp&theme=dark"></td>
         </tr>
 		<tr>
 		   <td><strong>Application Framework</strong></td>
@@ -47,7 +47,7 @@
         </tr>
 		<tr>
             <td><strong>Web Technologies</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"></td>
+            <td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react&theme=dark"></td>
 		</tr>
         <tr>
             <td><strong>Other Tools</strong></td>
