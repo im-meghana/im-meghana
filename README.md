@@ -6,9 +6,7 @@
         src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
     MEGHANA</h1>
 <br>
- 🔭 Exploring through <b>Freelancing & Real-world Projects</b> <br><br>
-
- 👯 Open to collaborating on <b>Open Source, App & Web Development projects<b> <br><br>
+ 👯 Open to collaborating on <b>Open Source, App & Web initiatives<b> <br><br>
 
 </div>
 
