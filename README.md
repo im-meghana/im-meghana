@@ -35,9 +35,9 @@
             <td><strong>Programming Languages</strong></td>
             <td>
                 <a href="https://www.java.com" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=java&theme=dark"></a>
-                <a href="https://isocpp.org/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=cpp&theme=dark"></a>
-                <a href="https://dart.dev/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=dart&theme=dark"></a>
                 <a href="https://en.cppreference.com/w/c" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=c&theme=dark"></a>
+                 <a href="https://dart.dev/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=dart&theme=dark"></a>
+                <a href="https://isocpp.org/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=cpp&theme=dark"></a>                
             </td>
         </tr>
         <tr>
