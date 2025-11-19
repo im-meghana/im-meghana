@@ -35,28 +35,50 @@
     <table>
         <tr>
             <td><strong>Programming Languages</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=java,c,dart,cpp&theme=dark"></td>
+            <td>
+                <a href="https://www.java.com" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=java&theme=dark"></a>
+                <a href="https://isocpp.org/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=cpp&theme=dark"></a>
+                <a href="https://dart.dev/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=dart&theme=dark"></a>
+                <a href="https://en.cppreference.com/w/c" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=c&theme=dark"></a>
+            </td>
         </tr>
-		<tr>
-		   <td><strong>Application Framework</strong></td>
-           <td> <img height="40" src="https://skillicons.dev/icons?i=flutter,qt&theme=dark"></td>
-		</tr>
+        <tr>
+            <td><strong>Application Frameworks</strong></td>
+            <td>
+                <a href="https://flutter.dev/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=flutter&theme=dark"></a>
+                <a href="https://www.qt.io/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=qt&theme=dark"></a>
+            </td>
+        </tr>
         <tr>
             <td><strong>Database</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+            <td>
+                <a href="https://www.mysql.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=mysql&theme=dark"></a>
+                <a href="https://www.mongodb.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=mongodb&theme=dark"></a>
+            </td>
         </tr>
-		<tr>
+        <tr>
             <td><strong>Web Technologies</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react&theme=dark"></td>
-		</tr>
+            <td>
+                <a href="https://html.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=html&theme=dark"></a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=css&theme=dark"></a>
+                <a href="https://tailwindcss.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=tailwind&theme=dark"></a>
+                <a href="https://www.typescriptlang.org/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=ts&theme=dark"></a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=js&theme=dark"></a>
+                <a href="https://react.dev/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=react&theme=dark"></a>
+            </td>
+        </tr>
         <tr>
             <td><strong>Other Tools</strong></td>
-            <td><img height=40 src="https://skillicons.dev/icons?i=git,github,aws,docker&theme=dark">
+            <td>
+                <a href="https://git-scm.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=git&theme=dark"></a>
+                <a href="https://github.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=github&theme=dark"></a>
+                <a href="https://aws.amazon.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=aws&theme=dark"></a>
+                <a href="https://www.docker.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=docker&theme=dark"></a>
             </td>
         </tr>
     </table>
-
 </div>
+
 <br><br>
 
 
