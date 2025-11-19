@@ -26,8 +26,8 @@
   <a href="https://leetcode.com/u/im_meghana/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
-  <a href="https://leetcode.com/u/im_meghana/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=Portfolio&logoColor=#d16c06" />
+  <a href="https://meghana-portfolio.vercel" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=#d16c06" />
   </a>
 </p>
 </div>
