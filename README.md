@@ -70,8 +70,6 @@
             <td>
                 <a href="https://git-scm.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=git&theme=dark"></a>
                 <a href="https://github.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=github&theme=dark"></a>
-                <a href="https://aws.amazon.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=aws&theme=dark"></a>
-                <a href="https://www.docker.com/" target="_blank"><img height=40 src="https://skillicons.dev/icons?i=docker&theme=dark"></a>
             </td>
         </tr>
     </table>
