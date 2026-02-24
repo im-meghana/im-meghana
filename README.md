@@ -74,7 +74,7 @@
     </table>
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <p align="center">
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
@@ -91,5 +91,8 @@
       alt="snake animation" />
   </picture>
 </p>
-
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
