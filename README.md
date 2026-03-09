@@ -5,20 +5,18 @@
 <h1 align="center">Hi There! <img width="37"
         src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif" />&nbsp;&nbsp;I'm
     MEGHANA</h1>
- 👯 Open to collaborating on <b>Open Source, App & Web initiatives</b> 
-<br><br>
 </div>
 <div align="center">
    <p align="center">
   <a href="https://www.linkedin.com/in/meghana-v03/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:meghana00v@gmail.com">
+  <a href="mailto:meghana16.atwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/im_meghana/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/im_meghana/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-3b3b3b?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-  </a>
+  </a> -->
   <a href="https://meghana-portfolio.vercel" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=#d16c06" />
   </a>
