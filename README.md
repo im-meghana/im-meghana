@@ -14,8 +14,8 @@
   <a href="mailto:meghana16.atwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- <a href="https://im-meghana.github.io/im-meghana-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-meghana.dev-maroon?style=for-the-badge&logo=Portfolio&logoColor=white" />
+<a href="https://im-meghana.github.io/im-meghana-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=white" />
 </a>
 </p>
 </div>
