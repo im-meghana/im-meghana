@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://meghana-portfolio.vercel" target="_blank">
-    <img src="[https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=#d16c06](https://im-meghana.github.io/im-meghana-portfolio/)" />
+    <img src="https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=#d16c06](https://im-meghana.github.io/im-meghana-portfolio/" />
   </a>
 </p>
 </div>
