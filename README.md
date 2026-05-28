@@ -71,23 +71,3 @@
 
 <br><br><br><br><br>
 
-<p align="center">
-  <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake-dark.svg?cache=1" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake.svg?cache=1" />
-    <img
-      src="https://raw.githubusercontent.com/im-meghana/im-meghana/output/github-contribution-grid-snake.svg?cache=1"
-      alt="snake animation" />
-  </picture>
-</p>
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<br><br><br><br>
