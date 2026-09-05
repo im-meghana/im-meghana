@@ -28,7 +28,7 @@
         <tr>
             <td><strong>Programming Languages</strong></td>
             <td>
-                <a href="https://www.java.com"><img height=40 src="https://skillicons.dev/icons?i=java&theme=dark"></a>
+                <a href="https://www.rust.com"><img height=40 src="https://skillicons.dev/icons?i=rust&theme=dark"></a>
                 <a href="https://dart.dev/"><img height=40 src="https://skillicons.dev/icons?i=dart&theme=dark"></a>
                 <a href="https://en.cppreference.com/w/c"><img height=40 src="https://skillicons.dev/icons?i=c&theme=dark"></a>
                 <a href="https://isocpp.org/"><img height=40 src="https://skillicons.dev/icons?i=cpp&theme=dark"></a>                
