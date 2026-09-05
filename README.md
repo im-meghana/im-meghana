@@ -39,6 +39,7 @@
             <td>
                 <a href="https://flutter.dev/"><img height=40 src="https://skillicons.dev/icons?i=flutter&theme=dark"></a>
                 <a href="https://www.qt.io/"><img height=40 src="https://skillicons.dev/icons?i=qt&theme=dark"></a>
+                <a href="[https://www.qt.io/](https://tauri.app/)"><img height=40 src="https://skillicons.dev/icons?i=tauri&theme=dark"></a>
             </td>
         </tr>
         <tr>
