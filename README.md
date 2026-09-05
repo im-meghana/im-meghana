@@ -57,7 +57,7 @@
                 <a href="https://tailwindcss.com/"><img height=40 src="https://skillicons.dev/icons?i=tailwind&theme=dark"></a>
                 <a href="https://www.typescriptlang.org/"><img height=40 src="https://skillicons.dev/icons?i=ts&theme=dark"></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height=40 src="https://skillicons.dev/icons?i=js&theme=dark"></a>
-                <a href="https://react.dev/"><img height=40 src="https://skillicons.dev/icons?i=react&theme=dark"></a>
+                <a href="https://svelte.dev/"><img height=40 src="https://skillicons.dev/icons?i=svelte&theme=dark"></a>
             </td>
         </tr>
         <tr>
